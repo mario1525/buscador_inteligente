@@ -1,4 +1,3 @@
-markdown
 
 # Proyecto de Web Scraping con Django y Scrapy
 

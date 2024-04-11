@@ -18,39 +18,33 @@ Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
 
 1. Clona este repositorio en tu máquina local:
 
+```markdown
 git clone https://github.com/mario1525/buscador_inteligente.git
-
-markdown
-
-
+```
 2. Instala las dependencias necesarias para Django y Scrapy. Puedes usar `pip` para instalar los paquetes necesarios:
 
+```
 pip install -r requirements.txt
-
-csharp
-
-
+```
 3. Aplica las migraciones de Django para configurar la base de datos:
-
+```
 python manage.py migrate
+```
 
-markdown
 
 
 ## Uso
 
 - Para ejecutar el programa Scrapy y realizar el scraping web, puedes usar el comando:
-
+```
 scrapy crawl mi_spider -o datos.json
-
-css
-
-
+```
 - Para ejecutar el servidor de desarrollo de Django y acceder a la aplicación web, utiliza el comando:
 
-python manage.py runserver
 
-yaml
+```
+python manage.py runserver
+```
 
 
 ## Contribuir
@@ -62,4 +56,4 @@ Si quieres contribuir a este proyecto, ¡eres bienvenido! Siéntete libre de abr
 Este proyecto está bajo la Licencia [MIT](LICENSE).
 
 ---
-Hecho con ❤️ por [mario1525, robert, sergio](https://github.com/mario1525)
+Hecho con ❤️ por [mario1525](https://github.com/mario1525),[robert](https://github.com/robertmachacon),[sergio](https://github.com/mario1525)

@@ -1,0 +1,124 @@
+{
+    "paging": {},
+    "reviews": [
+        {
+            "id": 1,
+            "date_created": "2023-05-15",
+            "status": "published",
+            "title": "Great Product!",
+            "content": "I absolutely love this product. It has exceeded all of my expectations. Highly recommend!",
+            "rate": 5,
+            "buying_date": "2023-01-20"
+          },
+          {
+            "id": 2,
+            "date_created": "2023-04-02",
+            "status": "published",
+            "title": "Highly Recommended",
+            "content": "This product is fantastic! It's easy to use and performs exceptionally well.",
+            "rate": 5,
+            "buying_date": "2023-03-10"
+          },
+          {
+            "id": 3,
+            "date_created": "2023-03-20",
+            "status": "published",
+            "title": "Impressive Quality",
+            "content": "I'm impressed with the quality of this product. It's durable and reliable.",
+            "rate": 4,
+            "buying_date": "2023-02-05"
+          },
+          {
+            "id": 4,
+            "date_created": "2023-02-10",
+            "status": "published",
+            "title": "Good Value for Money",
+            "content": "This product offers great value for the price. I'm happy with my purchase.",
+            "rate": 4,
+            "buying_date": "2023-01-15"
+          },
+          {
+            "id": 5,
+            "date_created": "2023-01-25",
+            "status": "published",
+            "title": "Satisfied Customer",
+            "content": "I'm a satisfied customer! This product has met all of my needs.",
+            "rate": 5,
+            "buying_date": "2023-01-10"
+          },
+          {
+            "id": 6,
+            "date_created": "2022-12-15",
+            "status": "published",
+            "title": "Works Like a Charm",
+            "content": "This product works like a charm. I haven't experienced any issues so far.",
+            "rate": 5,
+            "buying_date": "2022-12-05"
+          },
+          {
+            "id": 7,
+            "date_created": "2022-11-30",
+            "status": "published",
+            "title": "Excellent Performance",
+            "content": "I'm very impressed with the performance of this product. It's fast and reliable.",
+            "rate": 5,
+            "buying_date": "2022-11-20"
+          },
+          {
+            "id": 8,
+            "date_created": "2022-11-10",
+            "status": "published",
+            "title": "Great Features",
+            "content": "This product has great features that make my life easier. I'm happy with my purchase.",
+            "rate": 4,
+            "buying_date": "2022-10-25"
+          },
+          {
+            "id": 9,
+            "date_created": "2022-10-20",
+            "status": "published",
+            "title": "User-Friendly",
+            "content": "I find this product very user-friendly. It's intuitive and easy to navigate.",
+            "rate": 4,
+            "buying_date": "2022-10-10"
+          },
+          {
+            "id": 10,
+            "date_created": "2022-09-30",
+            "status": "published",
+            "title": "Happy Customer",
+            "content": "As a happy customer, I can confidently say that this product is worth every penny.",
+            "rate": 5,
+            "buying_date": "2022-09-15"
+          },
+          {
+            "id": 11,
+            "date_created": "2022-09-10",
+            "status": "published",
+            "title": "Good Investment",
+            "content": "Investing in this product was a good decision. It has improved my daily routine.",
+            "rate": 4,
+            "buying_date": "2022-08-25"
+          },
+          {
+            "id": 12,
+            "date_created": "2022-08-20",
+            "status": "published",
+            "title": "Reliable Product",
+            "content": "I rely on this product every day and it hasn't let me down. Great job!",
+            "rate": 5,
+            "buying_date": "2022-08-10"
+          }
+    ],
+    "rating_average": 4.8,
+    "rating_levels": {
+      "one_star": 2,
+      "two_star": 1,
+      "three_star": 0,
+      "four_star": 9,
+      "five_star": 80
+    },
+    "helpful_reviews": {},
+    "attributes": [
+    ]
+  }

@@ -1,0 +1,286 @@
+{
+    "paging": {},    
+        "reviews": [
+          {
+            "id": 1,
+            "date_created": "2020-03-15",
+            "status": "publicado",
+            "title": "Buen teléfono, grandes funciones.",
+            "content": "Estoy impresionado con el Samsung S9. La cámara es excelente y la velocidad del teléfono es increíble. Lo recomiendo totalmente.",
+            "rate": 5,
+            "buying_date": "2020-03-15"
+          },
+          {
+            "id": 2,
+            "date_created": "2021-01-20",
+            "status": "publicado",
+            "title": "No puedo vivir sin él.",
+            "content": "Desde que tengo el Samsung S9, mi vida ha cambiado. Es rápido, confiable y tiene todas las características que necesito. ¡Me encanta!",
+            "rate": 5,
+            "buying_date": "2021-01-20"
+          },
+          {
+            "id": 3,
+            "date_created": "2019-11-10",
+            "status": "publicado",
+            "title": "Increíble rendimiento.",
+            "content": "El Samsung S9 supera mis expectativas. La pantalla es nítida, la cámara toma fotos impresionantes y la duración de la batería es excelente.",
+            "rate": 5,
+            "buying_date": "2019-11-10"
+          },
+          {
+            "id": 4,
+            "date_created": "2020-07-05",
+            "status": "publicado",
+            "title": "Gran calidad de construcción.",
+            "content": "Me gusta mucho el diseño del Samsung S9. Se siente premium y sólido en la mano. Además, el rendimiento es excepcional.",
+            "rate": 5,
+            "buying_date": "2020-07-05"
+          },
+          {
+            "id": 5,
+            "date_created": "2019-08-22",
+            "status": "publicado",
+            "title": "Muy satisfecho.",
+            "content": "Después de usar el Samsung S9 durante un tiempo, puedo decir que estoy muy contento con mi compra. Es rápido, confiable y tiene una excelente calidad de pantalla.",
+            "rate": 5,
+            "buying_date": "2019-08-22"
+          },
+          {
+            "id": 6,
+            "date_created": "2021-04-30",
+            "status": "publicado",
+            "title": "Buen teléfono, mal software.",
+            "content": "El Samsung S9 es un gran teléfono en términos de hardware, pero el software a veces puede ser un poco problemático. Aún así, en general, estoy satisfecho con mi compra.",
+            "rate": 4,
+            "buying_date": "2021-04-30"
+          },
+          {
+            "id": 7,
+            "date_created": "2020-10-18",
+            "status": "publicado",
+            "title": "Funciona como un encanto.",
+            "content": "El Samsung S9 es muy fácil de usar y tiene todas las funciones que necesito. La calidad de la cámara es impresionante y el rendimiento general es excelente.",
+            "rate": 5,
+            "buying_date": "2020-10-18"
+          },
+          {
+            "id": 8,
+            "date_created": "2019-12-05",
+            "status": "publicado",
+            "title": "Buen teléfono para el día a día.",
+            "content": "El Samsung S9 es perfecto para mi uso diario. Es rápido, tiene una excelente duración de la batería y la calidad de la pantalla es asombrosa.",
+            "rate": 5,
+            "buying_date": "2019-12-05"
+          },
+          {
+            "id": 9,
+            "date_created": "2020-02-25",
+            "status": "publicado",
+            "title": "Buena relación calidad-precio.",
+            "content": "El Samsung S9 ofrece un excelente rendimiento a un precio razonable. Estoy muy contento con mi compra y lo recomendaría a otros.",
+            "rate": 5,
+            "buying_date": "2020-02-25"
+          },
+          {
+            "id": 10,
+            "date_created": "2019-10-10",
+            "status": "publicado",
+            "title": "Excelente teléfono, altamente recomendado.",
+            "content": "El Samsung S9 es simplemente increíble. La calidad de la pantalla, la duración de la batería y el rendimiento general son excepcionales. No puedo recomendarlo lo suficiente.",
+            "rate": 5,
+            "buying_date": "2019-10-10"
+          },
+          {
+            "id": 11,
+            "date_created": "2020-06-15",
+            "status": "publicado",
+            "title": "Satisfecho con mi compra.",
+            "content": "Después de usar el Samsung S9 durante un tiempo, puedo decir que estoy muy satisfecho con él. Cumple con todas mis expectativas y más.",
+            "rate": 5,
+            "buying_date": "2020-06-15"
+          },
+          {
+            "id": 12,
+            "date_created": "2021-02-08",
+            "status": "publicado",
+            "title": "Buena experiencia en general.",
+            "content": "El Samsung S9 ha sido una excelente compra. La calidad de la pantalla y la cámara son impresionantes, y la duración de la batería es suficiente para mí.",
+            "rate": 4,
+            "buying_date": "2021-02-08"
+          },
+          {
+            "id": 13,
+            "date_created": "2019-07-20",
+            "status": "publicado",
+            "title": "Gran teléfono, pequeños problemas.",
+            "content": "El Samsung S9 es un teléfono excelente en general, pero he experimentado algunos problemas menores con el software. Sin embargo, no afectan significativamente mi experiencia general.",
+            "rate": 4,
+            "buying_date": "2019-07-20"
+          },
+          {
+            "id": 14,
+            "date_created": "2020-09-03",
+            "status": "publicado",
+            "title": "Muy impresionado.",
+            "content": "Estoy muy impresionado con el Samsung S9. La calidad de la pantalla es excelente y la cámara toma fotos asombrosas. Sin duda, vale la pena cada centavo.",
+            "rate": 5,
+            "buying_date": "2020-09-03"
+          },
+          {
+            "id": 15,
+            "date_created": "2019-11-30",
+            "status": "publicado",
+            "title": "Buena relación calidad-precio.",
+            "content": "El Samsung S9 ofrece un excelente rendimiento a un precio razonable. Estoy muy satisfecho con mi compra y lo recomendaría a otros.",
+            "rate": 5,
+            "buying_date": "2019-11-30"
+          },
+          {
+            "id": 16,
+            "date_created": "2021-03-10",
+            "status": "publicado",
+            "title": "Buen teléfono, pero podría ser mejor.",
+            "content": "El Samsung S9 es un buen teléfono en general, pero hay algunas características que podrían mejorar. Sin embargo, en general, estoy satisfecho con mi compra.",
+            "rate": 4,
+            "buying_date": "2021-03-10"
+          },
+          {
+            "id": 17,
+            "date_created": "2020-04-25",
+            "status": "publicado",
+            "title": "Muy contento con mi compra.",
+            "content": "Después de usar el Samsung S9 durante unas semanas, puedo decir que estoy muy contento con él. Es rápido, confiable y tiene todas las características que necesito.",
+            "rate": 5,
+            "buying_date": "2020-04-25"
+          },
+          {
+            "id": 18,
+            "date_created": "2019-09-12",
+            "status": "publicado",
+            "title": "Excelente teléfono.",
+            "content": "El Samsung S9 es un teléfono excelente en todos los aspectos. La calidad de la pantalla, la duración de la batería y el rendimiento general son impresionantes.",
+            "rate": 5,
+            "buying_date": "2019-09-12"
+          },
+          {
+            "id": 19,
+            "date_created": "2020-01-15",
+            "status": "publicado",
+            "title": "Muy satisfecho con mi compra.",
+            "content": "El Samsung S9 superó mis expectativas. La calidad de la pantalla es excelente y la duración de la batería es impresionante. Sin duda, lo recomendaría.",
+            "rate": 5,
+            "buying_date": "2020-01-15"
+          },
+          {
+            "id": 20,
+            "date_created": "2019-12-20",
+            "status": "publicado",
+            "title": "Buen teléfono, grandes características.",
+            "content": "El Samsung S9 es un teléfono fantástico. Tiene todas las características que necesito y el rendimiento es excepcional. Definitivamente lo recomendaría.",
+            "rate": 5,
+            "buying_date": "2019-12-20"
+          },
+          {
+            "id": 21,
+            "date_created": "2020-08-05",
+            "status": "publicado",
+            "title": "Buena compra.",
+            "content": "El Samsung S9 ha sido una excelente compra. La calidad de la cámara es impresionante y el rendimiento general es muy bueno. Estoy muy satisfecho.",
+            "rate": 5,
+            "buying_date": "2020-08-05"
+          },
+          {
+            "id": 22,
+            "date_created": "2019-10-28",
+            "status": "publicado",
+            "title": "Fantástico teléfono.",
+            "content": "El Samsung S9 es simplemente fantástico. Tiene todas las características que necesito y el rendimiento es excepcional. Lo recomendaría totalmente.",
+            "rate": 5,
+            "buying_date": "2019-10-28"
+          },
+          {
+            "id": 23,
+            "date_created": "2021-05-20",
+            "status": "publicado",
+            "title": "Sorprendentemente bueno.",
+            "content": "Estoy sorprendido por lo bueno que es el Samsung S9. La calidad de la cámara es asombrosa y el rendimiento general es excelente. Definitivamente lo recomendaría.",
+            "rate": 5,
+            "buying_date": "2021-05-20"
+          },
+          {
+            "id": 24,
+            "date_created": "2019-07-15",
+            "status": "publicado",
+            "title": "Muy contento.",
+            "content": "El Samsung S9 ha superado mis expectativas. Es rápido, confiable y tiene todas las características que necesito. Estoy muy contento con mi compra.",
+            "rate": 5,
+            "buying_date": "2019-07-15"
+          },
+          {
+            "id": 25,
+            "date_created": "2020-11-10",
+            "status": "publicado",
+            "title": "Me encanta.",
+            "content": "El Samsung S9 es simplemente increíble. La calidad de la cámara es impresionante y el rendimiento general es excelente. Estoy completamente enamorado de este teléfono.",
+            "rate": 5,
+            "buying_date": "2020-11-10"
+          },
+          {
+            "id": 26,
+            "date_created": "2021-02-28",
+            "status": "publicado",
+            "title": "Buena calidad.",
+            "content": "El Samsung S9 tiene una excelente calidad de construcción. Se siente sólido y premium en la mano. Estoy muy satisfecho con mi compra.",
+            "rate": 5,
+            "buying_date": "2021-02-28"
+          },
+          {
+            "id": 27,
+            "date_created": "2019-08-10",
+            "status": "publicado",
+            "title": "Excelente teléfono.",
+            "content": "El Samsung S9 es un excelente teléfono en todos los aspectos. La calidad de la pantalla, la cámara y el rendimiento general son impresionantes. Definitivamente lo recomendaría.",
+            "rate": 5,
+            "buying_date": "2019-08-10"
+          },
+          {
+            "id": 28,
+            "date_created": "2020-05-25",
+            "status": "publicado",
+            "title": "Muy impresionado.",
+            "content": "Estoy muy impresionado con el Samsung S9. La calidad de la pantalla es excelente y la cámara toma fotos asombrosas. Sin duda, vale la pena cada centavo.",
+            "rate": 5,
+            "buying_date": "2020-05-25"
+          },
+          {
+            "id": 29,
+            "date_created": "2019-12-30",
+            "status": "publicado",
+            "title": "Gran teléfono.",
+            "content": "El Samsung S9 es un gran teléfono en todos los aspectos. La calidad de la pantalla es impresionante y el rendimiento es excepcional. Lo recomendaría totalmente.",
+            "rate": 5,
+            "buying_date": "2019-12-30"
+          },
+          {
+            "id": 30,
+            "date_created": "2020-03-20",
+            "status": "publicado",
+            "title": "Buen teléfono, precio justo.",
+            "content": "El Samsung S9 ofrece un excelente rendimiento a un precio razonable. Estoy muy satisfecho con mi compra y lo recomendaría a otros.",
+            "rate": 5,
+            "buying_date": "2020-03-20"
+          }
+        ],     
+    "rating_average": 4.8,
+    "rating_levels": {
+      "one_star": 2,
+      "two_star": 1,
+      "three_star": 0,
+      "four_star": 9,
+      "five_star": 80
+    },
+    "helpful_reviews": {},
+    "attributes": [
+    ]
+  }

@@ -1,0 +1,124 @@
+{
+    "paging": {},
+    "reviews": [
+        {
+            "id": 1,
+            "date_created": "2023-05-20",
+            "status": "publicado",
+            "title": "¡Increíble producto!",
+            "content": "Este producto superó todas mis expectativas. ¡Lo recomiendo encarecidamente!",
+            "rate": 5,
+            "buying_date": "2023-02-10"
+          },
+          {
+            "id": 2,
+            "date_created": "2023-04-10",
+            "status": "publicado",
+            "title": "Altamente recomendado",
+            "content": "¡Este producto es fantástico! Es fácil de usar y funciona excepcionalmente bien.",
+            "rate": 5,
+            "buying_date": "2023-03-20"
+          },
+          {
+            "id": 3,
+            "date_created": "2023-03-30",
+            "status": "publicado",
+            "title": "Calidad impresionante",
+            "content": "Estoy impresionado con la calidad de este producto. Es duradero y confiable.",
+            "rate": 4,
+            "buying_date": "2023-03-05"
+          },
+          {
+            "id": 4,
+            "date_created": "2023-02-20",
+            "status": "publicado",
+            "title": "Buena relación calidad-precio",
+            "content": "Este producto ofrece una gran relación calidad-precio. Estoy contento con mi compra.",
+            "rate": 4,
+            "buying_date": "2023-01-30"
+          },
+          {
+            "id": 5,
+            "date_created": "2023-01-15",
+            "status": "publicado",
+            "title": "Cliente satisfecho",
+            "content": "¡Soy un cliente satisfecho! Este producto ha cumplido con todas mis necesidades.",
+            "rate": 5,
+            "buying_date": "2023-01-15"
+          },
+          {
+            "id": 6,
+            "date_created": "2022-12-05",
+            "status": "publicado",
+            "title": "Funciona a la perfección",
+            "content": "Este producto funciona a la perfección. No he experimentado ningún problema hasta ahora.",
+            "rate": 5,
+            "buying_date": "2022-12-03"
+          },
+          {
+            "id": 7,
+            "date_created": "2022-11-20",
+            "status": "publicado",
+            "title": "Excelente rendimiento",
+            "content": "Estoy muy impresionado con el rendimiento de este producto. Es rápido y confiable.",
+            "rate": 5,
+            "buying_date": "2022-11-13"
+          },
+          {
+            "id": 8,
+            "date_created": "2022-11-08",
+            "status": "publicado",
+            "title": "Grandes características",
+            "content": "Este producto tiene excelentes características que hacen mi vida más fácil. Estoy contento con mi compra.",
+            "rate": 4,
+            "buying_date": "2022-10-28"
+          },
+          {
+            "id": 9,
+            "date_created": "2022-10-25",
+            "status": "publicado",
+            "title": "Fácil de usar",
+            "content": "Encuentro este producto muy fácil de usar. Es intuitivo y fácil de navegar.",
+            "rate": 4,
+            "buying_date": "2022-10-08"
+          },
+          {
+            "id": 10,
+            "date_created": "2022-10-10",
+            "status": "publicado",
+            "title": "Cliente feliz",
+            "content": "Como cliente feliz, puedo decir con confianza que este producto vale cada centavo.",
+            "rate": 5,
+            "buying_date": "2022-09-20"
+          },
+          {
+            "id": 11,
+            "date_created": "2022-09-30",
+            "status": "publicado",
+            "title": "Buena inversión",
+            "content": "Invertir en este producto fue una buena decisión. Ha mejorado mi rutina diaria.",
+            "rate": 4,
+            "buying_date": "2022-08-30"
+          },
+          {
+            "id": 12,
+            "date_created": "2022-08-15",
+            "status": "publicado",
+            "title": "Producto confiable",
+            "content": "Confío en este producto todos los días y no me ha defraudado. ¡Buen trabajo!",
+            "rate": 5,
+            "buying_date": "2022-08-10"
+          }
+    ],
+    "rating_average": 4.8,
+    "rating_levels": {
+      "one_star": 2,
+      "two_star": 1,
+      "three_star": 0,
+      "four_star": 9,
+      "five_star": 80
+    },
+    "helpful_reviews": {},
+    "attributes": [
+    ]
+  }
